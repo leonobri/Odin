@@ -12,6 +12,6 @@ $(document).ready(function () {
         $('html, body').animate({ scrollTop: 0 }, 'slow');
         return false;
     });
-});
+});Ots8Q~Q_zrS51eu-Q8z7N.kjssjdhhjsuuus
 
 #00BEFDDF09A04B43E95BD114CBAF704B5CFE39AE1936234D408ADD901554E1BE
